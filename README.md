@@ -49,8 +49,7 @@ The regression model was evaluated using:
 - Feature selection plays an important role in improving results
 
 ## 📁 Project Files
-- `Ml Project.ipynb` – Jupyter notebook containing EDA, preprocessing,
-  model training, and evaluation
+![image alt](https://github.com/rishu8587/House-Price-Prediction---Ml/blob/0171389a539a1a4eeff700f6dd91dde073c1e496/Ml%20Project.ipynb)
 
 ## ✅ Conclusion
 This project demonstrates a practical understanding of **regression-based
